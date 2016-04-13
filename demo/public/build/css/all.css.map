@@ -1,0 +1,1 @@
+{"version":3,"sources":["normalize.css","app.css"],"names":[],"mappings":"AAAA;AACA;AACA;ACFA","file":"all.css","sourcesContent":[".normal{\n    columns: 2;\n}",".panel-heading{color:#ff0}"],"sourceRoot":"/source/"}
